@@ -2,11 +2,21 @@
   {
     "id_product": 123,
     "product_name": "Shirt",
-    "price": 45600
+    "price": 150
   },
   {
     "id_product": 456,
     "product_name": "Socks",
-    "price": 1000
+    "price": 50
+  }
+    {
+    "id_product": 456,
+    "product_name": "Jacket",
+    "price": 350
+  }
+    {
+    "id_product": 456,
+    "product_name": "Shoes",
+    "price": 250
   }
 ]
