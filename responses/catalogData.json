@@ -8,12 +8,12 @@
     "id_product": 456,
     "product_name": "Socks",
     "price": 50
-  }
+  },
     {
     "id_product": 789,
     "product_name": "Jacket",
     "price": 350
-  }
+  },
     {
     "id_product": 987,
     "product_name": "Shoes",
