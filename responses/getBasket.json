@@ -1,17 +1,23 @@
 {
-  "amount": 46600,
-  "countGoods": 2,
+  "amount": 600,
+  "countGoods": 3,
   "contents": [
     {
-      "id_product": 123,
-      "product_name": "Ноутбук",
-      "price": 45600,
+      "id_product": 456,
+      "product_name": "Socks",
+      "price": 50
       "quantity": 1
     },
     {
-      "id_product": 456,
-      "product_name": "Мышка",
-      "price": 1000,
+      "id_product": 789,
+      "product_name": "Jacket",
+      "price": 350
+      "quantity": 1
+    }
+    {
+      "id_product": 987,
+      "product_name": "Shoes",
+      "price": 250
       "quantity": 1
     }
   ]
