@@ -1,6 +1,6 @@
 {
   "amount": 600,
-  "countGoods": 3,
+  "countGoods": 2,
   "contents": [
     {
       "id_product": 456,
@@ -13,7 +13,7 @@
       "product_name": "Jacket",
       "price": 350,
       "quantity": 1
-    }
+    },
     {
       "id_product": 987,
       "product_name": "Shoes",
